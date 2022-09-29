@@ -1,0 +1,43 @@
+body{
+    background: #000000;
+    font-family: verdana;
+    width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle{
+    color:#f7a6b9;
+}
+
+#title{
+    font-size: 35px;
+    text-align: center;
+}
+.subtitle{
+    font-size: 30px;
+    text-align: center;
+}
+.content_title{
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.post{
+    background: #f7a6b9;
+    padding: 15px;
+    border: 0 solid rgb(218,218,218);
+    margin-bottom: 15px;
+}
+.post_img{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+
